@@ -19,7 +19,7 @@ set -gx PATH $PATH /Users/wr/.lmstudio/bin
 # Added by OrbStack: command-line tools and integration
 source ~/.orbstack/shell/init2.fish 2>/dev/null || :
 
-mise activate fish | source
+#mise activate fish | source #BSDs
 
 # add vi keybind
 fish_vi_key_bindings
