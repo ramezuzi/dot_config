@@ -1,0 +1,14 @@
+XF86Audio{RaiseVolume,LowerVolume,Mute}
+	pamixer {-i 10,-d 10,-t}
+
+super + Return
+	$TERMINAL
+	
+super + b
+	$BROWSER
+
+super + d
+	dmenu_run
+
+super + q
+	xdotool getwindowfocus windowkill

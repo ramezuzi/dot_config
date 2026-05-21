@@ -8,8 +8,8 @@ SETUVAR Z_CMD:z
 SETUVAR Z_DATA:/home/ramez/\x2elocal/share/z/data
 SETUVAR Z_DATA_DIR:/home/ramez/\x2elocal/share/z
 SETUVAR Z_EXCLUDE:\x5e/home/ramez\x24
-SETUVAR --export __ABBR_TIPS_KEYS:\x1d
-SETUVAR --export __ABBR_TIPS_VALUES:\x1d
+SETUVAR --export __ABBR_TIPS_KEYS:a__
+SETUVAR --export __ABBR_TIPS_VALUES:
 SETUVAR __fish_initialized:4300
 SETUVAR _fisher_danhper_2F_fish_2D_ssh_2D_agent_files:\x7e/\x2econfig/fish/functions/__ssh_agent_is_started\x2efish\x1e\x7e/\x2econfig/fish/functions/__ssh_agent_start\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/fish\x2dssh\x2dagent\x2efish
 SETUVAR _fisher_franciscolourenco_2F_done_files:\x7e/\x2econfig/fish/conf\x2ed/done\x2efish
