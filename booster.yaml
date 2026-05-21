@@ -1,0 +1,3 @@
+busybox: true
+compression: zstd
+modules_force_load: nvidia,nvidia_modeset,nvidia_uvm,nvidia_drm
