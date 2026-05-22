@@ -1,0 +1,13 @@
+idle = true
+vsync = true
+maximized = false
+no-multigrid = false
+
+[font]
+normal = "IosevkaTerm Nerd Font"
+size = 14.0
+hinting = "full"
+edging = "antialias"
+
+[box-drawing]
+mode = "native"

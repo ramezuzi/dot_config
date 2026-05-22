@@ -1,0 +1,16 @@
+XF86Audio{RaiseVolume,LowerVolume,Mute}
+	pamixer {-i 10,-d 10,-t}
+
+super + Return
+	$TERMINAL
+	
+super + shift + Return
+    $TERMINAL --class scratch,scratch
+super + b
+	$BROWSER
+
+super + d
+    rofi -show run
+
+super + q
+	xdotool getwindowfocus windowkill
